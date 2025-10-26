@@ -66,7 +66,8 @@ Tuned using GridSearchCV over max_depth, min_samples_split, and min_samples_leaf
 
 Model Evaluation
 
-Metrics used: Accuracy, Precision, Recall, F1-score.
+Metrics used: 
+Accuracy, Precision, Recall, F1-score.
 
 Model	Accuracy	Precision	Recall	F1-score
 
@@ -120,14 +121,14 @@ Logistic Regression can be used for baseline comparison or when model simplicity
 How to Run
 
 Clone repository:
-
-git clone https://
-
+---
+git clone https://https://github.com/must-Zeus0036/Machine_Learning_Classification_Models.git
+---
 
 Install dependencies:
-
+---
 pip install -r requirements.txt
-
+---
 
 Open the Jupyter notebook and run cells sequentially.
 
