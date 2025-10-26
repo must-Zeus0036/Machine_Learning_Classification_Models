@@ -69,11 +69,17 @@ Model Evaluation
 Metrics used: Accuracy, Precision, Recall, F1-score.
 
 Model	Accuracy	Precision	Recall	F1-score
+
 Logistic Regression (baseline)	0.67	0.66	0.72	0.69
+
 Logistic Regression (tuned)	0.67	0.66	0.72	0.69
+
 Decision Tree (Gini baseline)	0.88	0.83	0.96	0.89
+
 Decision Tree (Entropy baseline)	0.86	0.95	0.76	0.84
+
 Decision Tree (tuned)	0.97	0.96	0.98	0.97
+
 
 Confusion matrices and bar charts were used for visual comparison.
 
