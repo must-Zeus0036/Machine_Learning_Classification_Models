@@ -127,7 +127,7 @@ git clone https://https://github.com/must-Zeus0036/Machine_Learning_Classificati
 
 Install dependencies:
 ---
-pip install -r requirements.txt
+pip install required dependencies
 ---
 
 Open the Jupyter notebook and run cells sequentially.
